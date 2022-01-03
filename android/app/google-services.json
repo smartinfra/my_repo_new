@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "475439263206",
+    "firebase_url": "https://samrim.firebaseio.com",
+    "project_id": "samrim",
+    "storage_bucket": "samrim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475439263206:android:38e70bb01b0c9a0f78fa27",
+        "android_client_info": {
+          "package_name": "kr.co.elounge.samrim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475439263206-8vov6u2h1u5l85f7mdkcku0ds6ijqfe3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8XKG0makiHw91U9ytWwbvdqPOlUzKmg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475439263206-8vov6u2h1u5l85f7mdkcku0ds6ijqfe3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

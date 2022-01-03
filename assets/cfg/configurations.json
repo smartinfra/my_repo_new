@@ -1,0 +1,6 @@
+{
+    "base_url": "https://sensor.humancom.net/",
+    "api_base_url": "https://sensor.humancom.net/api/",
+    "api_dapi_kakao_url": "https://dapi.kakao.com/v2/local/search/address.json",
+    "default_address": "서울시 송파구 법원로9길 26"
+  }
